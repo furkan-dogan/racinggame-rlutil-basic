@@ -5,7 +5,6 @@ a C++ racing game with using rlutil library
 - white o : Player's car
 - red o : Enemy's car
 - blue o : Obstacle
-- # : Road limit
 
 - Use arrow keys or WASD to move your ship
 - When you hit a key, press and hold the w button right after it to accelerate and catch up with the opponents.
